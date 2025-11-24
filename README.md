@@ -9,7 +9,7 @@ Deployed a complete AWS environment from scratch using Terraform:
 - Auto-installed Nginx on boot  
 - Public DNS enabled  
 
-Live demo: http://<your-public-ip>  
+Live demo: http://  
 Deployed in **eu-central-1** (Frankfurt)
 
 ```bash
